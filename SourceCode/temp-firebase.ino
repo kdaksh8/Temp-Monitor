@@ -2,7 +2,7 @@
 #include <FirebaseESP8266.h>
 #include <DHT.h>
 #define FIREBASE_HOST "tempmonitor-32b51-default-rtdb.asia-southeast1.firebasedatabase.app"      
-#define FIREBASE_AUTH "zxr0Dw98TIS0zX8umZfs30oYWt6hekkAzelAynu7"            
+#define FIREBASE_AUTH "YOURAUTHKEY"            
 #define WIFI_SSID "vid12"                                  
 #define WIFI_PASSWORD "12345678"            
 
